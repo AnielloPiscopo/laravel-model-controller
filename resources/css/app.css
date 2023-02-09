@@ -1,0 +1,7 @@
+.my_container {
+    padding: 1.2rem 15rem;
+}
+
+.my_cards-container .my_card {
+    width: calc(100% / 3);
+}
