@@ -1,5 +1,14 @@
 <?php
 
+/*
+|--------------------------------------------------------------------------
+| Movie Class
+|--------------------------------------------------------------------------
+|
+| A controller for the istance Movie
+|
+*/
+
 namespace App\Http\Controllers\Guest;
 
 use App\Http\Controllers\Controller;
